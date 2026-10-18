@@ -1,1 +1,1 @@
-"# Model Agnostic AI Agent" 
+Built a programmatic, multi-turn AI agent using Python and LiteLLM that autonomously generates, documents, and tests code based on dynamic user input. The system leverages strict context state management (re-injecting sanitized code blocks into the LLM's memory) to eliminate conversational drift
